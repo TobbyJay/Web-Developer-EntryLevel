@@ -50,7 +50,7 @@
 	  <!--div for Mission -->
 	  <div>
       <h2>My mission for Favcode is to: </h2>
-	  <p class="meta">Develop, Implement, and Support software products and solutions and also develop useful,classy but simple and well documented Websites and Web-apps with easy to understand User-Interface that will allow the Users to have an awesome User-experience.</p>
+	  <p class="meta">Develop, Implement, and Support software products and solutions,and to also help build useful,classy but simple and well documented Websites and Web-apps with easy to understand User-Interface that will allow the Users to have a better User-experience.</p>
     </div>
 	  <br/>
 	   <div>
