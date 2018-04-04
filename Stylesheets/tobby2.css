@@ -15,9 +15,21 @@ body ,html{
 }
 
 
-.p {
-    font-size: 18px;
+.p {   
+	font-family: 'Basic';
+	font-size: 18px;	
 }
+
+#h1 {
+    font-family: Tahoma, Geneva, sans-serif;
+	font-size: 28px;
+}
+
+#h2 {
+    font-family: Tahoma, Geneva, sans-serif;
+	font-size: 22px;
+}
+
 
 .profile_pic {
     
