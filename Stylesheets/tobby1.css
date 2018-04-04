@@ -22,25 +22,35 @@ body, html {
 }
 
 
-header {background: #006064;color:white;}
-footer {background: #006064;color:white;}
-footer {background: #006064;color:white;}
+header {
+	background: #006064;
+	color:white;
+}
+footer {
+	background: #006064;
+	color:white;
+}
+footer {
+	background: #006064;
+	color:white;
+}
 
 
 footer, header {
 		justify-content: center;
 	}
 		
-.header {
+header {
  
     height: 40%; 
     background-position:center ;
     background-repeat: no-repeat;
     background-size: cover;
-	opacity: 0.8;
+    opacity: 0.8;
     margin:1%;
-	background-position:100% 100%;
-background-image: url('images/ photo-1507153030234-657ffc3cf24a.jpg');
+    width: 100%;
+    background-position:100% 100%;
+    background-image: url('images/ photo-1507153030234-657ffc3cf24a.jpg');
 }
 	
 .img1 {
