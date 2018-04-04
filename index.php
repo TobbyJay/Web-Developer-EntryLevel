@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <!-- saved from url=(0027)http://apply.felixihub.com/ -->
-<html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<html lang="en">
+ <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>Tobby - FavCode Test</title>
 
 	<meta name="description" content="African development through partnership">
