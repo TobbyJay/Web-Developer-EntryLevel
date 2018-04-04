@@ -14,23 +14,25 @@ body ,html{
   -moz-osx-font-smoothing: grayscale;
 }
 
-
+/*my css for class(paragraph) */
 .p {   
 	font-family: 'Basic';
 	font-size: 18px;	
 }
 
+/*my css for id (h1) */
 #h1 {
     font-family: Tahoma, Geneva, sans-serif;
 	font-size: 28px;
 }
 
+/*my css for id (h2) */
 #h2 {
     font-family: Tahoma, Geneva, sans-serif;
 	font-size: 22px;
 }
 
-
+/*my css for class (profile_pic) */
 .profile_pic {
     
     width: 60%;
