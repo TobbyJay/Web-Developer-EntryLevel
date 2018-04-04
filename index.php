@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- saved from url=(0027)http://apply.felixihub.com/ -->
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="UTF-8">
@@ -14,7 +15,7 @@
 	<meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
 	<meta property="og:description" content="African development through partnership">
 
-	<!-- Open Graph data <link href="Felix%20-%20Favcoder_files/css.css" rel="stylesheet" type="text/css">-->
+	<!--all  css's used , note: "style.css and stylesheet.css" are the Css's from (Felix_Favcode_test) and "tobby1.css and tobby2.css" are created by (Tobby Junior) #Tainkyu-->
 
 <link rel="icon" href="images/download (1).png">
 <link rel="stylesheet" href="Stylesheets/stylesheet.css" type="text/css">
@@ -29,14 +30,15 @@
 
 
 <div class="container">
-<!--Create Header -->
+	
+<!--Create a Header -->
 
 <header class="header" >
   <img src="images/favcode54-logo-white2.png" alt="favcode"  id="img2">
 </header>
 
 
-<!--div for Intro -->
+<!--div for Intro. -->
 
     <div class="">
       <h1> I'm Umoh Sunday Tobby <span class="for">and I am a </span><br/>
@@ -50,7 +52,7 @@
 	  <!--div for Mission -->
 	  <div>
       <h2>My mission for Favcode is to: </h2>
-	  <p class="meta">Develop, Implement, and Support software products and solutions,and to also help build useful,classy but simple and well documented Websites and Web-apps with easy to understand User-Interface that will allow the Users to have a better User-experience.</p>
+	  <p class="meta">Develop, Implement, Deploy and Support software products and solutions,and to also help build useful,classy but simple and well documented Websites and Web-apps with easy to understand User-Interface that will allow the Users to have a better User-experience.</p>
     </div>
 	  <br/>
 	   <div>
