@@ -38,7 +38,8 @@ footer, header {
     background-size: cover;
 	opacity: 0.8;
     margin:1%;
-	
+	background-position:100% 100%;
+background: url(images/ photo-1507153030234-657ffc3cf24a.jpg);
 }
 	
 .img1 {
