@@ -33,7 +33,7 @@
 	
 <!--Create a Header -->
 
-<header id="header" >
+<header id="header_bg" >
   <img src="images/favcode54-logo-white2.png" alt="favcode"  id="img2">
 </header>
 
