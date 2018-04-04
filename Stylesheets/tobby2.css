@@ -16,7 +16,7 @@ body ,html{
 
 /*my css for class(paragraph) */
 .p {   
-	font-family: 'Basic';
+	font-family:Basic, Tahoma, Geneva, sans-serif;
 	font-size: 18px;	
 }
 
