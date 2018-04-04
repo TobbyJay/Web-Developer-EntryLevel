@@ -4,8 +4,7 @@ body, html {
 	
 }
 
-
-
+/*my css for class (container) */
 
 .container {
     display: -webkit-flex;
@@ -21,7 +20,7 @@ body, html {
     flex: 1 100%;
 }
 
-
+/*my css for "header and footer" */
 header {
 	background: #006064;
 	  
@@ -54,18 +53,19 @@ header {
   
 }
 
-	
+/*my css for class (img1) */	
 .img1 {
 	border-radius: 50%;
 	}
 	
+/*my css for id (img2) */
 #img2 {
 		opacity: 100;
 		width: 50%;
 		
 	}
 	
-	
+	/*my css for "paragraph" */
 
 p {
     font-family: "Times New Roman", Times, serif;
