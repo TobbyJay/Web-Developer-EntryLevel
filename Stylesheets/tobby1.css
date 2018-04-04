@@ -24,7 +24,7 @@ body, html {
 
 header {
 	background: #006064;
-	  background-image: url('images/photo-1507153030234-657ffc3cf24a.jpg');
+	  background-image: url("images/photo-1507153030234-657ffc3cf24a.jpg");
 	color:white;
 }
 footer {
@@ -59,7 +59,7 @@ footer, header {
 	}
 	
 #img2 {
-		opacity: 0.5;
+		opacity: 100;
 		width: 50%;
 		
 	}
