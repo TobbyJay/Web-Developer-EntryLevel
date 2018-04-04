@@ -55,15 +55,7 @@ header {
    
 }
 #header_bg {
-	height: 40%; 
-    background-position:center ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 0.8;
-    margin:1%;
-    width: 100%;
-    background-position:100% 100%;
-	  
+  
 		background-image: url("images/photo-1507153030234-657ffc3cf24a.jpg");
 	
 	}
