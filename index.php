@@ -22,16 +22,24 @@
 	<link rel="stylesheet" href="Stylesheets/style.css" type="text/css">
 <link rel="stylesheet" href="Stylesheets/tobby1.css" type="text/css">
 <link rel="stylesheet" href="Stylesheets/tobby2.css" type="text/css">
-<head>
+
+	<!-- This is the styling for my header,i have my reason -->
+<style> 
+#header_bg {
+		
+	background-image: url("images/photo-1510915228340-29c85a43dcfe.jpg");
+}
+		
+</style>
+
+		
 </head>
 
 
-<body  >
-
-
-<div class="container">
+<body>
+  <div class="container">
 	
-<!--Create a Header -->
+  <!--Create a Header -->
 
 <header id="header_bg" >
   <img src="images/favcode54-logo-white2.png" alt="favcode"  id="img2">
