@@ -50,7 +50,7 @@
 <!--div for Intro. -->
 
     <div class="">
-      <h1 id="h1">Hi, I'm Umoh Sunday Tobby <span class="for">and I am a </span><br/>
+      <h1 id="h1">Hi, I'm Umoh Sunday Tobby <span class="for">And I Am A </span><br/>
 	  Future Favcoder.</h1>
 	  
 	  <!--div for my pishure -->
