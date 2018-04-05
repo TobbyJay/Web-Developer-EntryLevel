@@ -57,7 +57,9 @@
 	    <div class="profile_pic" style="height:250px;">
 	  <img src="images/FB_IMG_15228095320717875.jpg" alt="tobby_pic" style="height:200px;" style="width:260px"  class="img1">  
 	  </div>
-	  
+	    
+	  <hr>
+	    
 	  <!--div for Mission -->
 	  <div>
       <h2>My mission for Favcode is to: </h2>
