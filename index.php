@@ -26,8 +26,7 @@
 
 	<!-- This is the styling for my header,i have my reason -->
 <style> 
-#header_bg {
-		
+#header_bg {		
 	background-image: url("images/photo-1510915228340-29c85a43dcfe.jpg");
 }
 		
@@ -51,7 +50,7 @@
 <!--div for Intro. -->
 
     <div class="">
-      <h1 id="h1"> I'm Umoh Sunday Tobby <span class="for">and I am a </span><br/>
+      <h1 id="h1">Hi, I'm Umoh Sunday Tobby <span class="for">and I am a </span><br/>
 	  Future Favcoder.</h1>
 	  
 	  <!--div for my pishure -->
