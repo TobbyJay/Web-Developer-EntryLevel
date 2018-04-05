@@ -16,7 +16,7 @@
 	<meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
 	<meta property="og:description" content="African development through partnership">
 
-	<!--all  css's used , note: "style.css and stylesheet.css" are the Css's from (Felix_Favcode_test) and "tobby1.css and tobby2.css" are created by (Tobby Junior) #Tainkyu-->
+	<!--all  css's used , note: "style.css and stylesheet.css" are the Css's from (Felix_Favcode_test, wanna know how I got it?, it's my little secret but I'm willing to share #smiles) and "tobby1.css and tobby2.css" are created by (Tobby Junior) #Tainkyu-->
 
 <link rel="icon" href="images/download (1).png">
 <link rel="stylesheet" href="Stylesheets/stylesheet.css" type="text/css">
